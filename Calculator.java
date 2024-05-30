@@ -37,4 +37,6 @@ public class Calculator {
                 System.out.println("유효하지 않은 연산자입니다!");
                 return;
         }
-
+        System.out.println("결과: " + result);
+    }
+}
