@@ -30,4 +30,4 @@ public class Person {
     public String introduce() {
         return "제 이름은 " + name + "이고, 나이는 " + age + "살입니다. 전화번호는 " + phoneNumber + "이고, 생년월일은 " + birthDate + "입니다.";
     }
-}
+
