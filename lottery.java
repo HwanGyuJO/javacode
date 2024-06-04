@@ -85,3 +85,4 @@ public class Lottery {
         }
         return count;
     }
+}
